@@ -5,7 +5,7 @@ The only metric I could find from the bert output was the amortized resources ov
 
 ![image](https://github.com/user-attachments/assets/96a4b953-d37f-4faf-a8d8-3d42eb31464b)
 
-These are the resources used for --ntasks 8. As follows is a snapshot from the log file contained in `/home/jireh/ai-science-training-series/07_AITestbeds/Sambanova/bert/112624.18/BertLarge.out`.
+These are the resources used for --ntasks 8. As follows is a snapshot from the log file contained in `/home/jireh/ai-science-training-series/07_AITestbeds/Sambanova/bert/112624.20/BertLarge.out`.
 
 ![image](https://github.com/user-attachments/assets/edd4d3d0-8c70-4d99-9e47-5b83dc86acd9)
 
